@@ -27,12 +27,12 @@ our primes, coprimes, inverses, and totients to generate our public and private 
 
 ## Arguments List
 ```
--h  Displays help message for respective program.\
--v  Displays statistics and verbose messages for the respective program.\
--i  Infile to decrypt / encrypt.\
--o  Outfile to decrypt / encrypt.\
--n  File to read / write the public key.\
--d  File to read / write the private key.\
--s  Seed for random seed generation.\
+-h  Displays help message for respective program.
+-v  Displays statistics and verbose messages for the respective program.
+-i  Infile to decrypt / encrypt.
+-o  Outfile to decrypt / encrypt.
+-n  File to read / write the public key.
+-d  File to read / write the private key.
+-s  Seed for random seed generation.
 -c  Confidence level for the Miller-Rabin primality test.
 ```
