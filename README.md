@@ -1,5 +1,5 @@
 # RSA Encryption
-    This program is an implementation of the RSA encryption algorithm. In order to do the
+This program is an implementation of the RSA encryption algorithm. In order to do the
 computation required for this algorithm we’ll be using the GMP library. We will be creating,
 using various theoretical functions, to compute a private and public key in order to encrypt
 and decrypt files.\
