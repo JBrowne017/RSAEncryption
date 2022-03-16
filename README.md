@@ -2,7 +2,7 @@
 The following program contains three parts: keygen, encrypt, decrypt. These three together are an implementation of the RSA Encryption algorithm in C.
 
 
-## Buildingg
+## Building
 `make`          Equivelent to `make all`.\
 `make all`      Makes keygen, encrypt, and decrypt.\
 `make keygen`   Makes keygen program.\
